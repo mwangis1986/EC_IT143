@@ -1,0 +1,5 @@
+-- Step 4 Research
+-- I researched how to extract part of a string in SQL Server.
+-- I found that LEFT and CHARINDEX functions can be combined.
+-- Source 1: https://www.w3schools.com/sql/
+-- Source 2: https://learn.microsoft.com/en-us/sql/

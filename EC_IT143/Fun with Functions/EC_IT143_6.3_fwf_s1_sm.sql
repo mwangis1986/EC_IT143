@@ -1,0 +1,2 @@
+-- Step 1: Question
+-- How can I extract the first name from the ContactName column?

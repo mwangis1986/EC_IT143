@@ -1,0 +1,5 @@
+-- Step 2: Thinking
+-- The ContactName column contains full names.
+-- The first name appears before the first space.
+-- I will use CHARINDEX to find the space
+-- and LEFT to extract the first name.

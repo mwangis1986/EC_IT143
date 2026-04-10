@@ -1,0 +1,2 @@
+-- Q 3. Research
+-- I researched SQL trigger and found that AFTER UPDATE triggers can be used.

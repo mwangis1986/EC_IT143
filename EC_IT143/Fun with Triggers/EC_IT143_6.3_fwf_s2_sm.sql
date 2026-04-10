@@ -1,0 +1,3 @@
+-- Q 2. Thinking
+-- I need to update a column automatically whenever a record is updated.
+-- A trigger can help achieve this.
